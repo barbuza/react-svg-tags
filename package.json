@@ -1,0 +1,14 @@
+{
+  "name": "react-svg-tags",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Kotseruba <barbuzaster@gmail.com>",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^0.12.1"
+  }
+}
